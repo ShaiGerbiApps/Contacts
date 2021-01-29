@@ -14,7 +14,7 @@ android {
     buildToolsVersion "29.0.3"
 
     defaultConfig {
-        applicationId "com.simplemobiletools.contacts.pro"
+        applicationId "com.shaigerbi.contacts"
         minSdkVersion 21
         targetSdkVersion 29
         versionCode 79
